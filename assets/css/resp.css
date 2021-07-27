@@ -1,0 +1,44 @@
+@media screen and (min-width: 768px) {
+  .title {
+    font-size: 2rem;
+  }
+
+  /* FORM SECTION */
+  #form-section {
+    max-height: 1240px;
+    overflow: hidden;
+    max-height: 50%;
+  }
+  #form {
+    float: right;
+    padding: 5% 5%;
+    max-width: 500px;
+  }
+
+  .btn-form {
+    position: unset;
+    bottom: unset;
+  }
+
+  /*ABOUT*/
+  #about-section {
+    flex-direction: row;
+  }
+  #avatar {
+    height: 400px;
+    border: 6px solid #470510;
+  }
+  #about-content {
+    width: 30%;
+  }
+
+  .about-text {
+    margin-top: 3rem;
+    margin-bottom: auto;
+  }
+
+  /*FOOTER*/
+  footer {
+    padding: 1rem 0;
+  }
+}
