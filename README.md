@@ -1,2 +1,2 @@
 ﻿# pagina-captura
-https://tgbr.site/captura_html
+https://tgpro.site/captura_html
