@@ -1,2 +1,2 @@
 ﻿# pagina-captura
-https://td-pagina-captura.surge.sh/
+https://tgbr.site/captura_html
