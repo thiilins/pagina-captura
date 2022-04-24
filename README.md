@@ -1,2 +1,2 @@
 ﻿# pagina-captura
-https://tgpro.site/captura_html
+https://td-pagina-captura.surge.sh/
